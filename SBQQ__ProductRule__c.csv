@@ -1,0 +1,2 @@
+"Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ErrorMessage__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupMessageField__c","SBQQ__LookupObject__c","SBQQ__LookupProductField__c","SBQQ__LookupRequiredField__c","SBQQ__LookupTypeField__c","SBQQ__Scope__c","SBQQ__Type__c"
+a795a159-e233-4316-802d-7550001da2a5,Test Product Rule,true,"#N/A",All,fsfdsg,Save,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Quote,Validation
